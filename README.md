@@ -1,6 +1,8 @@
 # Terraform AWS VPC Module Customised
+<img width="1082" height="532" alt="image" src="https://github.com/user-attachments/assets/09423d74-38a1-48a6-97b2-1fb55797295e" />
 
-![alt text](images/vpc.jpg)
+
+
 
 This module is going to create the following resources. for HA we are going to get first 2 AZ.
 
